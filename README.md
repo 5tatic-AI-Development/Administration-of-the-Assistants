@@ -10,3 +10,12 @@ Multi-Agent Assistant project for GitHub
   <li>Documentation-Generator</li>
   <li>Issue-&-bug-Assistant</li>
 </ol>
+
+<b>Key Features</b>
+<ol>
+  <li>context-aware code suggestions</li>
+  <li>Support for mulitple code langs</li>
+  <li>Integration with VSCode</li>
+  <li>Custmizable Settings (e.g., suggestion frequency, language-specific settings, reqponse tuning)</li>
+  <li>Optoin to learn form the user's codebase to provide personalized suggestions</li>
+</ol>
