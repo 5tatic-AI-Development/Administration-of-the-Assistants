@@ -47,11 +47,10 @@ Multi-Agent Assistant project for GitHub
 <h6>YOU MUST COMPLY!!!</h6>
 
 4) <b>Code-Compliance-Solution</b>
-<p><i>This should work in tandum with the "Code-Review-Assistant", and would be trained on {
-  <ol>
+<p><i>This should work in tandum with the "Code-Review-Assistant", and would be trained on  <ol>
     <li>GDPR Guidelines</li>
     <li>HIPAA Guidelines</li>
     <li>Security Best Practices</li>
     <li>User-Codebase</li>
     <li>User-Parameters</li>
-}</i></p>
+</i></p>
