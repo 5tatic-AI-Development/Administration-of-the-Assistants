@@ -33,10 +33,10 @@ Multi-Agent Assistant project for GitHub
 
 <h6><b>Real time review</b></h6>
 
-2) <b>Automated-Code-Review-Assistan</b>:
+2) <b>Automated-Code-Review-Assistant</b>:
 <p><i>This solution can be givin access to view your current document(s) and should be able to    extrapolate code that you're currently working</i><br>
 
-<b>(SHOULD NOT MONITOR KEYBOARD OR INPUT HARDEWARE)</b><br></p>
+<b>(SHOULD NOT MONITOR KEYBOARD OR INPUT HARDWARE)</b><br></p>
 
 
 <h6>Shift-Backspace</h6>
@@ -47,10 +47,11 @@ Multi-Agent Assistant project for GitHub
 <h6>YOU MUST COMPLY!!!</h6>
 
 4) <b>Code-Compliance-Solution</b>
-<p><i>This should work in tandum with the "Code-Review-Assistant", and would be trained on  <ol>
+<p><i>This should work in tandum with the "Code-Review-Assistant", and would be trained on {
+  <ol>
     <li>GDPR Guidelines</li>
     <li>HIPAA Guidelines</li>
     <li>Security Best Practices</li>
     <li>User-Codebase</li>
     <li>User-Parameters</li>
-</i></p>
+}</i></p>
